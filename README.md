@@ -7,3 +7,6 @@ This is the database file required to execute the project.
 Bootstrap and Jquery is used for UI development.
 
 Recommended Xampp for executing the complete project.
+
+Use this link to get a demo functionality of the website hosted on google drive.
+https://shortto.com/sidfolio
